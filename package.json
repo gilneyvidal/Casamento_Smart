@@ -1,0 +1,20 @@
+{
+  "name": "casamento-smart",
+  "version": "1.0.0",
+  "description": "Sistema SaaS para gestão de casamentos - Vidal Design Solutions",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "@supabase/supabase-js": "latest",
+    "qrcode.react": "latest",
+    "lucide-react": "latest"
+  }
+}
